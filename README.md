@@ -17,6 +17,8 @@
 -	Focus on High-Volume States
 -	Offering exclusive benefits or loyalty programs to retain and attract more customers from this highest paying segment.
 
+## MS Excel Dashboard
+![Screenshot 2025-01-02 133052](https://github.com/user-attachments/assets/b67c0cfc-bdef-4b14-86f5-bb3eea88347d)
 
 
 
