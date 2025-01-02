@@ -26,3 +26,8 @@
 ## Tableau Dashboard
 ![Screenshot 2025-01-02 140004](https://github.com/user-attachments/assets/1b9cd134-274e-44b0-ba8b-206760950632)
 
+## Conclusion
+-	This analysis provides a comprehensive overview of Bank Loan Data across various dimensions
+-	This information can help in making data-driven decisions, such as focusing on account verification, understanding risk based on loan grades, and identifying key regional or seasonal factors that influence loan performance.
+-	These metrics enable precise risk management by highlighting high-risk loan grades and identifying key factors influencing borrower reliability. 
+-	Ultimately, this data-driven approach enhances decision-making in loan portfolio management.
