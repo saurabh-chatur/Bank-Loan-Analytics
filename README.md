@@ -20,5 +20,9 @@
 ## MS Excel Dashboard
 ![Screenshot 2025-01-02 133052](https://github.com/user-attachments/assets/b67c0cfc-bdef-4b14-86f5-bb3eea88347d)
 
+## Power BI Dashboard
+![Screenshot 2025-01-02 222028](https://github.com/user-attachments/assets/447d25eb-ab32-49b0-9911-249a2aff9729)
 
+## Tableau Dashboard
+![Screenshot 2025-01-02 140004](https://github.com/user-attachments/assets/1b9cd134-274e-44b0-ba8b-206760950632)
 
